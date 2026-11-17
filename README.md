@@ -8,9 +8,9 @@ Brown Dust 2（棕色尘埃 2）相关工具、资源仓库与约会互动配置
 | --- | --- | --- |
 | [BD2ModManager](https://github.com/LLsetnow/BD2ModManager) | [LLsetnow](https://github.com/LLsetnow) | Mod 管理、预览与同步工具。 |
 | [BD2ModPreview](https://github.com/LLsetnow/BD2ModPreview) | [LLsetnow](https://github.com/LLsetnow) | Spine 动画与 Mod 预览工具。 |
-| [Brown-Dust-2-Asset](https://github.com/bruhnn/Brown-Dust-2-Asset/tree/master) | [bruhnn](https://github.com/bruhnn)（第三方） | Brown Dust 2 美术素材与约会音频，音频位于 `audio/dating`。 |
+| [Brown-Dust-2-Asset](https://github.com/LLsetnow/Brown-Dust-2-Asset/tree/master) | [LLsetnow](https://github.com/LLsetnow)（我的 Fork） | Brown Dust 2 美术素材与约会音频，音频位于 `audio/dating`。 |
 
-各项目的安装方法、使用说明和许可条款，请查看对应仓库。第三方资源仓库由其维护者独立维护，本仓库提供链接索引。
+各项目的安装方法、使用说明和许可条款，请查看对应仓库。Brown-Dust-2-Asset 条目指向本仓库的 fork；其上游由 [bruhnn](https://github.com/bruhnn) 独立维护。
 
 ## 约会互动配置
 
